@@ -1,0 +1,5 @@
+double              "AREA"
+double              "PERIMETER"
+int                 "STATESP020"
+java.lang.String    "STATE"
+java.lang.String    "STATE_FIPS"

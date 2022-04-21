@@ -1,0 +1,7 @@
+double				"AREA"
+double				"PERIMETER"
+int					"TIMEZNP020"
+java.lang.String	"TIMEZONE"
+int					"GMT_OFFSET"
+java.lang.String	"GMT_DST_OF"
+java.lang.String	"SYMBOL"
